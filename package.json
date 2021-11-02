@@ -1,0 +1,14 @@
+{
+  "name": "zjh-blog",
+  "version": "1.0.0",
+  "author": "张金辉",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.6"
+  },
+  "description": "none"
+}
